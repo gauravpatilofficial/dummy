@@ -1,0 +1,12 @@
+{
+        "studentId": 202,
+        "name": "girish",
+        "emailId": "girish@gmail.com",
+        "password": "123456",
+        "dateOfBirth": "1998-02-25",
+        "mobileNo": "1234567892",
+        "address": "abcdefgr",
+        "hobbies": "coadings",
+        "knownLanguages": "british",
+        "status": "placed"
+}
